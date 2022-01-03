@@ -1,10 +1,10 @@
 # random_passwords_generator
 
 ## Introduction
-`A random number password generator written in Python, also it will generate his hash form.` 
+`A random, Phyton-written, password generator, capable of generating his hash form too.` 
 <br />
 
-Minimum 14 characters are required and the new passwords are compared with a .txt file containing the most common passwords, if it is the same as one of those, it will be discarded. I have not downloaded the rockyou.txt file because of his dimension, but a reduced one. You can find the official rockyou file <a href="https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt" target="_blank">here</a>.
+Minimum comparison requirements are 14 characters. Passwords will be compared TO a .txt file containing the most common passwords, if it is the same as one of those, it will be discarded. Due to size issues, the rock you.txt has been downloaded in its reduced-dimension form. You can find the official rockyou file <a href="https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt" target="_blank">here</a>.
 <br />
  
 ![This is an image](/images/cmd.png)
