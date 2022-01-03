@@ -9,6 +9,7 @@ Minimum 14 characters are required and the new passwords are compared with a .tx
  
 ![This is an image](/images/cmd.png)
 <br />
+
 Furthermore, the new passwords and all their hash forms will be saved in a new file. 
 <br />
 
