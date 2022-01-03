@@ -1,0 +1,8 @@
+1) Here the random password generated: E13XgziYtCtegk
+   Here the hashing form: 2a3f503602f110f3b3a43fb81292968624748c7a0529c41ef7e82c8a25307762449bba9e9f5b1efc0e229ae519e6901bb316ccb2e2f8dd0469dd6f74571822bb
+2) Here the random password generated: m{GfW&R&wSaW$I
+   Here the hashing form: 1f867273aca812e482e31bdbcf231ba74ea047275ce6e7e0f3b1537bc42cd7bebd22ddb8902313b2a683a8a783183e9bd3c3992592669a13ee31c80b3db69041
+3) Here the random password generated: V'"$EZ@'hgnOf1
+   Here the hashing form: 3f251166963f1d33aa3480fc4e8428394d1de90d0ea2f57c8f40741ab16df867d0e821b3b6589b0a42a20634e553df26bb88bd36e92a0dfbced5f6278aadf626
+4) Here the random password generated: k"8s#c4BYez-JO
+   Here the hashing form: 5fcf8790a76fcff942faa8f79c7598abff10fbb6501e18284fc997e5b5946044c2d35a5e5c65336f7278325138eea1c26c3d5e02e050b8bb50d767409782d31e

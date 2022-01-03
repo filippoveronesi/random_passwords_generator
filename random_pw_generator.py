@@ -44,13 +44,13 @@ with open('pass.txt', 'w') as f1:
         print(number, file=f1, end='')
         print(") Here the random password generated: ", file=f1,  end ='')
         print(password, file=f1)
-        print("Here is your newly generated random password:", password)
+        print("%d) Here is your newly generated random password: %s" % (number, password))
         
         encodedpwd = password.encode('utf-8')			    #password encoding
         hash = hashlib.sha512(encodedpwd).hexdigest()		#password hashing with SHA-512 algorithm
 
-        print("\nWe can also hash the Password just for information purposes")
-        print("Random Password hash:", hash)
+        print("\n   We can also hash the Password just for information purposes")
+        print("   Random Password hash:", hash)
         
         print("   Here the hashing form: ", file=f1, end ='')
         print(hash, file=f1)
