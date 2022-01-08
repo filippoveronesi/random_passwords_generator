@@ -19,4 +19,4 @@ Furthermore, the new passwords and all their hash forms will be saved in a new f
 ![This is an image](/images/newfile.png)
 
 ## Requirements
-`Written and compilated with Python 3.6`
+`Written and compilated with Python 3.8`
